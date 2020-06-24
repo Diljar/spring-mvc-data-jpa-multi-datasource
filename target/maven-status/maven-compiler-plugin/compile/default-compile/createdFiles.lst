@@ -1,0 +1,10 @@
+com\dk\controller\HomeController.class
+com\dk\config\UserConfig.class
+com\dk\model\user\User.class
+com\dk\WebMvcConfig.class
+com\dk\controller\TestController.class
+com\dk\config\ProductConfig.class
+com\dk\repository\user\UserRepository.class
+com\dk\AppInitializer.class
+com\dk\model\product\Product.class
+com\dk\repository\product\ProductRepository.class
